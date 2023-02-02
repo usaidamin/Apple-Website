@@ -1,0 +1,317 @@
+.header{
+    display: flex;
+    background-color: #000;
+    justify-content: center;
+}
+.applelogo img{
+    max-width: 100%;
+    height: 40px;
+    padding: 5px 0 0 0;
+}
+.features li{
+    list-style-type: none;
+    color: #808080;
+    display: inline-block;
+    padding: 0 0 0 30px;
+}
+
+.iphone14 {
+    background-image: url(./hero_iphone14pro__e5xbgo5ffhg2_small_2x.jpg);
+    max-width: 100%;
+    height: 990px;
+    cursor: pointer;
+}
+.iphone14 h4{
+    text-align:center;
+    margin:0;
+    color: #fff;
+    font-size: 180%;
+    cursor: pointer;
+
+}
+.iphone14 h1{
+    text-align:center;
+    margin: 150px 0 0 0;
+    color: #fff;
+    font-size: 300%;
+    cursor: pointer;
+}
+.iphone14 p{
+    text-align:center;
+    margin:0;
+    color: #fff;
+    font-size: 100%;
+    cursor: pointer;
+}
+.iphone14 ul li{
+    text-align: center;
+    list-style-type: none;
+    font-size: 120%;
+    cursor: pointer;
+    
+}
+.iphone14 a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.iphone{
+    background-image: url(./hero_iphone14__fjmsqstr1ceq_medium_2x.jpg);
+    max-width: 100%;
+    height: 948px;
+    cursor: pointer;
+    margin: 20px 0 0 0;
+}
+.iphone h1{
+    text-align:center;
+    margin: 30px 0 0 0;
+    color: #000;
+    font-size: 300%;
+    cursor: pointer;
+}
+.iphone p{
+    text-align:center;
+    margin:0;
+    color: #000;
+    font-size: 200%;
+    cursor: pointer;
+}
+.iphone ul li{
+    text-align: center;
+    list-style-type: none;
+    font-size: 120%;
+    cursor: pointer;
+}
+.iphone a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.applewatch{
+    background-image: url(./hero_apple_watch_series_8__bjc1ok5mkjua_medium_2x.jpg);
+    max-width: 100%;
+    height: 890px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+.applewatch img{
+    max-width: 50%;
+    height: 80px;
+    margin: 70px 0 0 560px;
+    cursor: pointer;
+}
+.applewatch h4{
+    text-align:center;
+    margin:0;
+    color: #fff;
+    font-size: 180%;
+    cursor: pointer;
+}
+.applewatch ul li{
+    text-align: center;
+    list-style-type: none;
+    font-size: 120%;
+    cursor: pointer;
+}
+.applewatch a{
+    text-decoration: none;
+    color: #0000ff;
+    cursor: pointer;
+}
+.group{
+    display: flex;
+    max-width: 100%;
+    margin-top: 20px;
+}
+.promo{
+    background-image: url(./promo_apple_watch_ultra__gnsqulvdc4a6_small_2x.jpg);
+    width: 50%;
+}
+.promo img{
+    width: 30%;
+    height: 50px;
+    margin: 30px 0 0 220px;
+}
+.promo p{
+    font-size: 200%;
+    text-align: center;
+    color: #000;
+}
+.promo ul li{
+    font-size: 150%;
+    padding-left: 28%;
+    list-style-type: none;
+    line-height: 0.5em;
+}
+.promo a{
+    text-decoration: none;
+    color: #87ceeb;
+}
+.pro{
+    background-image: url("./beyonce_promo__c8bt5lllfl2e_small_2x.jpg");
+    width: 50%;
+    height: 500px;
+    background-repeat: no-repeat;
+    line-height: 0em;
+    background-color: #fff;
+}
+.pro img{
+    max-width: 100%;
+    height: 50px;
+    margin: 30px 0 0 220px;
+}
+.pro h4{
+    margin-top: -1px;
+    font-size: 150%;
+    text-align: center;
+    line-height: 1.3em;
+    color: #fff;
+}
+.pro ul li{
+    font-size: 150%;
+    padding-left: 25%;
+    list-style-type: none;
+    margin-top: -20px;
+}
+.pro a{
+    text-decoration: none;
+    color: #fff;
+}
+.group1{
+    display: flex;
+    max-width: 100%;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.wish{
+    background-image: url(./promo__sw58lbodkmqq_small_2x.jpg);
+    width: 49%;
+    height: 500px;
+    line-height: 1.7em;
+}
+.wish h1{
+    text-align: center;
+    font-size: 300%;
+    color: #fff;
+    padding-top: 20px;
+}
+.wish h4{
+    text-align: center;
+    font-size: 150%;
+    color: #fff;
+}
+.wish p{
+    text-align: center;
+    font-size: 120%;
+    line-height: 0em;
+    margin-top: -15px;
+}
+.wish a{
+    text-decoration: none;
+    color: #fff;
+}
+.ipad{
+    background-image: url(./promo_ipad__fioegapg12qi_small_2x.jpg);
+    width: 50%;
+}
+.ipad h1{
+    text-align: center;
+    font-size: 300%;
+    line-height: 0.5em;
+    padding-top: 10px;
+}
+.ipad h4{
+    text-align: center;
+    font-size: 170%;
+    line-height: 0em;
+}
+.ipad ul li{
+    list-style-type: none;
+    font-size: 130%;
+    padding-left: 28%;
+    margin-top: -20px;
+    line-height: 2em;
+}
+.ipad a{
+    text-decoration: none;
+    color: #87ceeb;
+}
+.group2{
+    display: flex;
+    max-width: 100%;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.airpods{
+    background-image: url(./promo_airpods_pro_avail__gaxggskofx6y_small_2x.jpg);
+    width: 49%;
+    height:500px;
+}
+.airpods h1{
+    text-align: center;
+    font-size: 300%;
+    color: #fff;
+    padding-top: 20px;
+}
+.airpods p{
+    text-align: center;
+    font-size: 180%;
+    line-height: 0em;
+    margin-top: -15px;
+    color: #fff;
+}
+.airpods ul li{
+    list-style-type: none;
+    font-size: 130%;
+    padding-left: 28%;
+}
+.airpods a{
+    text-decoration: none;
+    color: #87ceeb;
+}
+.cards{
+    background-image: url(./tile__cauwwcyyn9hy_medium_2x.jpg);
+    width: 50%;
+    padding-top: 25px;
+}
+.cards img{
+    max-width: 30%;
+    height: 40px;
+    margin: 30px 0 0 250px;
+}
+.cards p{
+    text-align: center;
+    font-size: 180%;
+    margin-top: -1px;
+}
+.cards ul li{
+    list-style-type: none;
+    font-size: 130%;
+    padding-left: 28%;
+    margin-top: -20px;
+    line-height: 1.5em;
+}
+.cards a{
+    text-decoration: none;
+    color: #87ceeb;
+}
+.information{
+    background-color: #ffffe0;
+    font-size: 90%;
+    color: gray;
+    max-width: 80%;
+    padding: 30px 0 0 0;
+    margin: 40px 0 0 130px;
+}
+.list{
+    margin-left: 130px;
+}
+.list ol{
+    display: inline-block;
+  vertical-align: top;
+  padding-left: 0;
+  max-width: 100%;
+}
+.list ol li{
+    list-style-type: none;
+    line-height: 2em;
+    font-size: 90%;
+}
